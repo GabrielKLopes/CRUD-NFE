@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.App-container{
+    display: block;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 25px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fd01e8b9;
+}
+.register-container{
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+    
+}
+.input-register{
+    font-size: 25px;	
+    outline: 0;
+    width: 350px;
+    height: 50px;
+    padding: 15px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.button-register{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    padding: 25px;
+}
+.button-register button{
+    height: 100px;
+    width: 350px;
+    color: #ffffff;
+    font-size: 25px;
+    background-color: #ffffff;
+    border-radius: 25px;
+    cursor: pointer;
+    outline: 0;
+    border: 0 none;
+    background-color: rgb(230, 215, 250);
+}
+.button-register button:hover{
+    background-color: rgba(255, 28, 217, 0.5);
+    color: #ffffff;
+}
