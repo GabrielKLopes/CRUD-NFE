@@ -1,7 +1,7 @@
 CRUD DESENVOLVIDO PARA TESTES COM REACT E NODEJS
 
 
-Para executar é importante ter instalado na maquina o react e node e suas dependencias
+Para executar é importante ter instalado na maquina o react,node e suas dependencias
 
 Quando for iniciar a aplicação é necessário validar o bd no index.js da pasta server e ver se seu MYSQL está compativel com a versão utilizada
 
